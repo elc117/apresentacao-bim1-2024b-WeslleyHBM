@@ -57,5 +57,7 @@ Matrícula: **202320537**
 ## Fontes
 
 ChatGPT: [Assistência na elaboração e explicação das funções em Haskell.](https://chatgpt.com/)
+
 LiaScript: [Plataforma da professora utilizada para consulta de conteúdo teórico.](https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc117-2024b/main/classes/06/README.md#1)
+
 Consultas com colegas: [Discussões e troca de ideias sobre o problema.].(Tales cruz).
